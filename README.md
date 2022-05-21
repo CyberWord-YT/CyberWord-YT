@@ -1,0 +1,3 @@
+- 👋 Hi, I'm CyberWord
+- 👀 I'm interested in programing/analising malware and destroing windows
+- 📫 How to contact me in the discord 
